@@ -1,0 +1,15 @@
+.reco-grid {
+    border: 0.5px solid;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 0.25rem 0;
+    width: 80%;
+}
+
+.reco-item {
+    flex-direction: row;
+    flex : 1;
+    padding-left: 15px;
+    padding-right: 15px;
+}
